@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.po {
+    background-image: radial-gradient(blue, red);
+
+}
+
+.hu {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.nv {
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: blue;
+
+}
+
+.gift-img {
+    background-image: linear-gradient(to right, red, blue);
+    padding: 10px;
+}
+
+.icon-con {
+    margin: 15px;
+    background-color: red;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.icon {
+    color: blue;
+    font-size: 40px;
+}
+
+.o {
+    list-style: square;
+    font-style: italic;
+    color: white;
+}
+
+
+.n {
+    text-decoration: underline;
+}
+
+.h {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+.m {
+    text-align: center;
+    padding: 10px;
+    background-image: linear-gradient(to left, limegreen, yellow);
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    width: 70vw;
+    font-style: italic;
+}
+
+#nm {
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.mt {
+    text-align: center;
+    padding: 10px;
+
+    width: 70vw;
+    font-style: italic;
+}
+
+.bnn {
+    height: 40px;
+    width: 60px;
+    background-color: white;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.con {
+    background-image: linear-gradient(to right, limegreen, yellow);
+    height: 100vh;
+    text-align: center;
+}
+
+.bgu {
+    background-image: linear-gradient(to bottom, blue, red);
+}
+
+.head-first {
+    color: white;
+    font-family: "Roboto";
+
+}
+
+.bg-con {
+    padding: 10px;
+    background-image: linear-gradient(to right, red, blue);
+
+}
+
+.bar {
+    background-color: hotpink;
+}
+
+.car {
+    background-image: linear-gradient(to left, red, blue);
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: green;
+    border-style: solid;
+    text-align: center;
+}
+
+.head {
+    color: white;
+
+    font-style: italic;
+
+}
